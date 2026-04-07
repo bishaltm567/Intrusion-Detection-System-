@@ -1,0 +1,21 @@
+intrusion-detection-system/
+│── src/
+│   └── ids.py
+│── rules.txt
+│── logs.txt
+│── requirements.txt
+│── README.md
+│── .gitignore
+│── LICENSE
+│── CONTRIBUTING.md
+│── CODE_OF_CONDUCT.md
+│── CHANGELOG.md
+│── SECURITY.md
+│── ROADMAP.md
+│── .github/
+│   ├── workflows/
+│   │   └── ci.yml
+│   ├── ISSUE_TEMPLATE/
+│   │   ├── bug_report.md
+│   │   └── feature_request.md
+│   └── PULL_REQUEST_TEMPLATE.md
